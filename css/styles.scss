@@ -1,0 +1,19 @@
+$paleBlue: hsl(243, 100%, 93%);
+$grayishBlue: hsl(229, 7%, 55%);
+$darkBlue: hsl(228, 56%, 26%);
+$veryDarkBlue: hsl(229, 57%, 11%);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
